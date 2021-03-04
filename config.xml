@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.kattoglaserspill.katt2"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+
+  <name>katt og laser 2</name>
+
+  <description>
+      klik the cooke
+  </description>
+
+  <author href="https://build.phonegap.com" email="support@phonegap.com">
+      Katt og laser
+  </author>
+<preference name="android-minSdkVersion" value="17" />
+  <icon src="icon.png" />
+    <preference name="orientation" value="landscape" />
+</widget>
